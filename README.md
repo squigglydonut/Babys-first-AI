@@ -1,2 +1,2 @@
 # Babys-first-AI
-learning time
+learning time thanks to init.ai
